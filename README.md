@@ -1,4 +1,4 @@
-# An-lisis-de-usuarios-Spotify
+# Análisis de usuarios Spotify
 # Objetivo del Negocio & Caso de Uso
 Este proyecto analiza el comportamiento y la estructura demográfica de una muestra de 2,500 usuarios de Spotify. El propósito central es proporcionar insights estratégicos al equipo de Ventas de Publicidad (Ad Sales) y Monetización para optimizar la pauta comercial en la plataforma.  
 A partir de la detección de una baja tasa de conversión hacia planes de pago, el informe demuestra cómo monetizar masivamente el segmento de usuarios gratuitos mediante la venta de espacios publicitarios segmentados por geografía, edad, género y hábitos de consumo.   
